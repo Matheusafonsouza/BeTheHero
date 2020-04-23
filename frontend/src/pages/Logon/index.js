@@ -1,7 +1,13 @@
 import React from 'react'
 
+import './styles.css'
+
 export default function Logon(){
     return(
-        <h1>Hello :-)</h1>
+        <div className="logon-container">
+            <section className="form">
+
+            </section>
+        </div>
     )
 }
